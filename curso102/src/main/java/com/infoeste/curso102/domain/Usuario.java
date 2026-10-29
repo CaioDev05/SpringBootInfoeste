@@ -10,5 +10,6 @@ public class Usuario {
     private UUID id;
     private String nome;
     private String email;
+    private Boolean ativo;
 
 }
